@@ -39,8 +39,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOGA3321&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGA3321&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=YOGA3321&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOGA3321&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🏙️ My GitHub City (3D Contribution)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub City 3D Contribution" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="GitHub City 3D Contribution" />
 </p>
 
 ---
