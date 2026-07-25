@@ -48,7 +48,11 @@
 ### 🏙️ My GitHub City (3D Contribution)
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="GitHub City 3D Contribution" />
+  <a href="https://thegitcity.com/dev/yoga3321">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="GitHub City 3D Contribution" />
+  </a>
+  <br />
+  🌐 <b>Interactive 3D City:</b> <a href="https://thegitcity.com/dev/yoga3321">thegitcity.com/dev/yoga3321</a>
 </p>
 
 ---
